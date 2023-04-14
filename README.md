@@ -4,7 +4,7 @@
 **niiima/niiima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 👨‍💻 Welcome to my personal Git account repository, @niiima. This is a special repository where you can find my latest updates on my coding journey. 
-- 🔭 I’m currently working on https://mygpt-nima.vercel.app
+- 🔭 I’m currently working on https://mygpt-zeta.vercel.app
 - 🌱 I’m currently learning open-ai
 - 👯 I’m looking to collaborate on AI apps
 - 💬 Ask me about JavaScript
